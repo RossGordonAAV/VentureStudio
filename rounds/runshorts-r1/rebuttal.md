@@ -1,0 +1,4 @@
+# CEO rebuttal – Leak-proof running shorts – R1
+1. **Leak volume is only Believed. Accept.** The wear test weighs the pad and garment on a real long run; that is the volume number.
+2. **Four friends can't carry the decision. Adjust.** Keep the wife's group (fast, free), and add 4–6 screened women from running groups who leak on runs of 15 km or more, logging their current set-up and their workaround (pad, Uresta, physio). Pass: half or more report leak-through or chafing their current set-up doesn't solve.
+3. **Demand looks weak and the economics are open. Accept.** Run the stranger pre-order alongside week 1, with refundable deposits. Pass ≥20, kill <10; 10–19 means try one more channel. Add three pelvic-floor physio calls, starting with Heidi Moossdorff-Steinhauser, to test the cheap channel and ask about the medical-device rules. Stop if both the pre-order and the leaker test fail.
