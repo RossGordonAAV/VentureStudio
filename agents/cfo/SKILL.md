@@ -20,6 +20,9 @@ version: 0.1.0
 - The cheapest money: revenue, grants (RVO, NWO, EIC, MIT), angels, customers paying up front, before equity.
 - What kills it financially: long sales cycles, capex, regulation, working capital.
 
+## Revenue model check (Ross, 20 Nov 2026)
+Classify the model as recurring, transactional or consultancy. Recurring is the target; transactional needs a big market (say how big, sourced); consultancy is a red flag – propose a recurring version.
+
 ## Always asks
 1. What does the first paying customer cost us to win and serve?
 2. Margin at 10, 100 and 1,000 customers – what changes?

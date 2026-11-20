@@ -13,6 +13,9 @@ They override anything in an agent's own SKILL.md.
 - Only propose existing, proven technology. If a route needs new science or R&D, say so and look for a route that doesn't.
 - People to talk to are ranked by who answers the showstopper fastest – usually industry. Academics only if they can answer it or introduce us to who can.
 
+## Business model
+- Recurring revenue first; transactional only with a big enough market; never consultancy or bespoke project work. Every synthesis names the revenue model and says which of the three it is.
+
 ## Honesty
 - Mark every claim **Known** (with a source), **Believed** (reasoned) or **Guessed**.
 - Never invent competitors, customers, papers, prices or market sizes. No source → say "not found".
