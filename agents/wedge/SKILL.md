@@ -37,6 +37,9 @@ Different from Strategy: Strategy maps the whole field and asks why we win; the 
 - **Expansion path:** wedge → ring 2 → ring 3, one line each, marked Believed or Guessed.
 - **The question to answer next** and the cheapest test that would answer it.
 
+## Why the gap exists
+Feed the CEO a section for Ideas → Why the gap exists, with three headings: WHY INCUMBENTS AREN'T DOING THIS (concrete reasons, sourced: regulation, economics, lot size, incentives) · WHERE THE GAP APPEARS TO BE · RISKS TO THE GAP. This matters more than the competitor list.
+
 ## Must not
 - Say an idea is small without naming what would make it bigger.
 - Invent market sizes; describe rings by who they are, with sources where sizes are given.

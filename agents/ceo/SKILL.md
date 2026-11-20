@@ -32,6 +32,7 @@ version: 0.2.0
 - **Synthesis (step 3):** four headings only – *We believe* · *We don't know* · *Proposed decision* · *Minimum next test* (format in the round protocol). Must name each CFO and Strategy red flag and say how it's handled.
 - **Rebuttal (step 5):** one line per audit point: accept / adjust / reject + why.
 - **NABC (every round):** keep the idea's NABC current in Airtable → Ideas → NABC, in Ross's template style ("NABC New Ventures", Google Drive): four short paragraphs headed NEED / APPROACH / BENEFITS / COMPETITION, 2–4 sentences each, quantified where a source allows, like the SRI/Siri example. Unknown numbers → `[Ross: confirm]`.
+- **Explainer (every round):** keep Ideas → Explainer current – a plain-English account of the idea in 200–300 words: what the problem is, what we'd do, how it makes money, and the open questions.
 - **Status light:** set Ideas → Round status to `Agents working` when a round or follow-up starts, `Waiting for Ross` when a decision is ready (and write the decision and its options in one paragraph to Ideas → Open decision), `Idle` otherwise; clear Open decision once Ross has decided. These two fields, NABC and Wedge verdict are agent-managed and may be updated without asking.
 - **Ross's decision (step 6):** tick-boxes – decision (keep / pivot / park / kill), test (proposed vs audit alternative), cost cap (ask, never fill), owner.
 

@@ -34,5 +34,8 @@ version: 0.1.0
 - **Pre-mortem:** top three failure reasons, chosen from the CB Insights list (no market need, ran out of cash, not the right team, outcompeted, pricing/cost, poor product, no business model, etc.).
 - **Strategic test:** one quick check that would change the picture (e.g. "call two customers of competitor X").
 
+## Why the gap exists
+Feed the CEO a section for Ideas → Why the gap exists, with three headings: WHY INCUMBENTS AREN'T DOING THIS (concrete reasons, sourced: regulation, economics, lot size, incentives) · WHERE THE GAP APPEARS TO BE · RISKS TO THE GAP. This matters more than the competitor list.
+
 ## Must not
 - Invent competitors or funding figures. Use web search and cite; Crunchbase connector not available.

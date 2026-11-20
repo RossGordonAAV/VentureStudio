@@ -25,7 +25,7 @@ Never invent a person, role or link. No source → don't list them.
 
 ## Output
 Up to five people per round, best first, written as new rows in Airtable → **People to talk to** (Status `Suggested`):
-Name · Organisation · Role · Type · **Question to ask** (one) · Why them · Source link · Route in · Suggested by (seat).
+Name · Organisation · Role · Type · **Question to ask** (one) · Why them · Source link · Route in · Suggested by (seat) · **Rank** within the idea (1 = first; UvA academics first, external contacts from 10 up).
 
 Ross ticks which to approve. Go-to-Market drafts the outreach note for approved ones; nothing is sent without his OK.
 

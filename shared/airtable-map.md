@@ -24,6 +24,8 @@ Base **Venture Studio** `appKUC6vXhmMjQJiz` (Ross's own workspace, separate from
 | Round status | `fldDcO28XljXisyiV` | Agents working · Waiting for Ross · Idle – agent-managed (dashboard status light) |
 | NABC | `fld8SUkjqLFjdmZa4` | CEO-managed, Ross's NABC template |
 | Open decision | `fldJYG6CWzSPnsuBA` | agent-managed; what's waiting for Ross |
+| Explainer | `fldkO3UkwIRnz9fTO` | CEO-managed, 200–300 words |
+| Why the gap exists | `fld8Nba0rjjaV3Wh1` | Strategy/Wedge via CEO |
 | People (link) | `fldAoArBs15TDYYX4` | inverse of People to talk to → Idea |
 | Rounds (link) | `fldZzoYAPXPFm2Yxv` | inverse of Rounds → Idea |
 | Tests (link) | `fldo4Oonz1a3W8BBu` | inverse of Tests → Idea |
@@ -35,9 +37,9 @@ Round `fldiXU42jqiEuxYpr` ("<Idea> – R<n>") · Idea `fldgbsp7Ho0HJ1Tye` · Dat
 Test `fldUX3edVgPWjFgxi` · Idea `fldYTOqQV0FQbqrHq` · Assumption tested `fldrvV6F8sUs35H9G` · Method `fldoiQxln5EfVTbYW` · Pass criterion `fldi1DJmOzjPNxLS6` · Kill criterion `fld7M3UmiOfUXdSy5` · Cost cap `fldp1l5zk0suNU3Dc` (€, **Ross only**) · Time box (days) `fldjdUx52AvB4E803` · Owner `fldJr0zMsyCgAM3Sl` · Status `fldfO61F68OhHt4rA` (Proposed · Running · Done · Dropped) · Start `fldFlP6jdH69eojwY` · Due `flde2XvY5PF56Dtmg` · Result `fldc9gOqMYGkvWOy1` (Passed · Failed · Inconclusive) · Learning `fld5tIyeC9uvrRRkS` · Actual cost `fld7PRQrr9gwLT7kl`
 
 ## People to talk to `tbls0CAuRt0IIKYhl`
-Name `fldkKYHF0FcxiiMxn` · Idea `fldFGoG2iM0OfTzUi` · Organisation `fld6smAouslrid8iy` · Role `fld7PTFLATiuu9Lom` · Type `fldfV2149zx8XDdqX` (Potential customer · Domain expert · Scientist · Competitor or ex-competitor · Channel or partner · Investor) · Question to ask `fldX5unNZiUnVulrE` · Why them `fldDXGAWX3M8eb5lJ` · Source `fld0XBIaRJH9bX6gL` (url, required) · Route in `fld3f2ylfTqHTgvv0` (Warm intro · Ross knows them · LinkedIn · Email · Event) · Suggested by `flduUgdKZUZyL6tOy` · Status `fldBAzAE5uuPpJBYf` (Suggested · Approved · Contacted · Met · Not pursuing – **Ross only** beyond Suggested) · Learning `fldd0pyP56ZYn38BZ` · Met on `fldwbr4HJRYJaWOot`
+Name `fldkKYHF0FcxiiMxn` · Idea `fldFGoG2iM0OfTzUi` · Organisation `fld6smAouslrid8iy` · Role `fld7PTFLATiuu9Lom` · Type `fldfV2149zx8XDdqX` (Potential customer · Domain expert · Scientist · Competitor or ex-competitor · Channel or partner · Investor) · Question to ask `fldX5unNZiUnVulrE` · Why them `fldDXGAWX3M8eb5lJ` · Source `fld0XBIaRJH9bX6gL` (url, required) · Route in `fld3f2ylfTqHTgvv0` (Warm intro · Ross knows them · LinkedIn · Email · Event) · Suggested by `flduUgdKZUZyL6tOy` · Status `fldBAzAE5uuPpJBYf` (Suggested · Approved · Contacted · Met · Not pursuing – **Ross only** beyond Suggested) · Learning `fldd0pyP56ZYn38BZ` · Met on `fldwbr4HJRYJaWOot` · Rank `fldN8vBcwnh8mavXz` (order within the idea)
 
 ## Write rules
 - New Ideas (on "new idea: X"), Rounds, Tests and People to talk to rows: agents may create.
-- Existing rows: no edits or deletes without Ross's explicit instruction in the chat. Exception (Ross, 20 Nov 2026): agents keep Ideas → Round status, Open decision, NABC and Wedge verdict current, and record Ross's ticked answers (Decision, Status) on the rows they concern.
+- Existing rows: no edits or deletes without Ross's explicit instruction in the chat. Exception (Ross, 20 Nov 2026): agents keep Ideas → Round status, Open decision, NABC, Explainer, Why the gap exists, Wedge verdict and People → Rank current, and record Ross's ticked answers (Decision, Status) on the rows they concern.
 - Fields marked **Ross only** are filled from his tick-box answers, never by an agent's judgement.
