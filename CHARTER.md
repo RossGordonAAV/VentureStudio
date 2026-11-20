@@ -11,6 +11,7 @@ Action creates information. Analysis doesn't. Every round ends with a **small, r
 - **Default test box:** two weeks, low cost (Ross sets the cap per idea; agents never fill one in).
 - **Cheap first:** conversations, landing pages, smoke tests, concierge versions and letters of intent come before code, hires or spending.
 - **Keep, pivot, park or kill** at every round. "Needs more research" is not an outcome on its own; it becomes a test.
+- **Integrate, don't invent (Ross, 20 Nov 2026).** Ideas use technology that already exists and works. The business is in putting proven pieces together – logistics, contracts, data, regulation, partners – not in developing new or cutting-edge technology. No deep-tech development projects.
 - **Get out the door.** Talking to people rates above desk work. If one conversation could answer the question, that's the test, and the agents name real people to call, each with a source (`shared/get-out-the-door.md`).
 
 ## The team

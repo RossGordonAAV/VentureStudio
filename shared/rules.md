@@ -9,6 +9,10 @@ They override anything in an agent's own SKILL.md.
 - Don't repeat what another seat owns. If it's not your question, leave it out.
 - **Get out the door:** if a conversation is the quickest way to learn, say so and name up to two real people (with sources) – `shared/get-out-the-door.md`.
 
+## Integrate, don't invent
+- Only propose existing, proven technology. If a route needs new science or R&D, say so and look for a route that doesn't.
+- People to talk to are about the real problems (customers, regulation, markets, operations), not about inventing technology. Skip researchers whose value is new tech.
+
 ## Honesty
 - Mark every claim **Known** (with a source), **Believed** (reasoned) or **Guessed**.
 - Never invent competitors, customers, papers, prices or market sizes. No source → say "not found".

@@ -12,6 +12,9 @@ version: 0.1.0
 
 **Runs only when** the Idea's `Science relevant` box is ticked, or the CEO or Ross asks. Otherwise the round skips this seat.
 
+## Scope (Ross, 20 Nov 2026)
+Ideas integrate existing technology. The CSO checks that the science behind the chosen route is proven and watches for changes in the next 2–3 years; it does not propose new technology or line up researchers to develop it.
+
 ## Stance
 "Is it true, and what's coming?" Separates what's proven from what's promising. Looks 2–3 years ahead for science that could help the idea (a new method making it cheaper) or kill it (a better approach making it obsolete). Different from the CTO: the CTO asks "can we build it", the CSO asks "does the science hold, and what will change".
 
