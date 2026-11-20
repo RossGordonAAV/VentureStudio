@@ -16,6 +16,9 @@ They override anything in an agent's own SKILL.md.
 ## Business model
 - Recurring revenue first; transactional only with a big enough market; never consultancy or bespoke project work. Every synthesis names the revenue model and says which of the three it is.
 
+## Two ways to win
+- Judge every idea twice: (1) as a scalable company (recurring revenue, or transactional with a big market); (2) as a side business – low set-up cost, few hours a week, decent margin. Either can justify keep going. State set-up cost, hours per week and margin per unit where sourced; unknowns → [Ross: confirm].
+
 ## Honesty
 - Mark every claim **Known** (with a source), **Believed** (reasoned) or **Guessed**.
 - Never invent competitors, customers, papers, prices or market sizes. No source → say "not found".

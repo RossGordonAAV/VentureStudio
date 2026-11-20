@@ -25,7 +25,7 @@ A round is one pass of the team over one idea. Target: done in one sitting.
 ## The minimum next test
 **Showstopper first, conversation first.** The test targets the single question that kills the idea if the answer is wrong. If talking to someone could answer the riskiest assumption, that is the test (`shared/get-out-the-door.md`).
 
-Every synthesis also gives a **testability verdict** (Easy / Possible / Hard): can the showstopper be tested within 2 weeks for near-zero cost, with a real signal (money, pre-order, signed LOI – not likes)? Ross (20 Nov 2026).
+Every synthesis states the **outcome type** – scalable company / side business / neither – and gives a **testability verdict** (Easy / Possible / Hard): can the showstopper be tested within 2 weeks for near-zero cost, with a real signal (money, pre-order, signed LOI – not likes)? Ross (20 Nov 2026).
 
 Every synthesis proposes one, with:
 - **Assumption** it tests (one sentence).

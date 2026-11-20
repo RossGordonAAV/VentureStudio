@@ -13,6 +13,7 @@ Action creates information. Analysis doesn't. Every round ends with a **small, r
 - **Keep, pivot, park or kill** at every round. "Needs more research" is not an outcome on its own; it becomes a test.
 - **Integrate, don't invent (Ross, 20 Nov 2026).** Ideas use technology that already exists and works. The business is in putting proven pieces together – logistics, contracts, data, regulation, partners – not in developing new or cutting-edge technology. No deep-tech development projects.
 - **Recurring revenue, not consultancy (Ross, 20 Nov 2026).** Prefer business models with recurring revenue (subscriptions, service contracts, per-unit fees on a repeat basis). Transactional is fine if the market is big enough. Consultancy or one-off project work is not a business we want to build.
+- **A small side business is a valid outcome (Ross, 20 Nov 2026).** If an idea isn't a scalable company but could run as a side business with low set-up cost and few hours a week, say so – it can still be a 'keep going'.
 - **Get out the door.** Talking to people rates above desk work. If one conversation could answer the question, that's the test, and the agents name real people to call, each with a source (`shared/get-out-the-door.md`).
 
 ## The team
