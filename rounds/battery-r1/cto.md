@@ -1,0 +1,33 @@
+# CTO – Science Park grid batteries – R1 (20 Nov 2026)
+
+**Core technical risk:** a behind-the-meter (BTM) battery on its own does not raise a site's contracted transport capacity (GTV); it only keeps the site within it. Whether a battery *unlocks* capacity depends on which grid layer is full at Science Park (Liander or TenneT) and which contract is wrapped around it.
+
+## Why it isn't done already
+- **Battery ≠ more capacity.** Liander: batteries help customers "stay within contracted capacity" ([Liander brochure](https://noord-holland.nl/bestanden/pdf/Brochure%20Liander%20-%20Overzicht%20alternatieven%20bij%20transportschaarste.pdf)). **Known.** CE Delft puts usable capacity at ~+50% *if* the battery can charge, but a battery is "no solution" when there is no grid room at all ([CE Delft, Amsterdam](https://ce.nl/wp-content/uploads/2025/04/CE_Delft_230487_Beleidsadvies_opslag_en_energyhub_Amsterdam_Def.pdf)). **Known.**
+- **TenneT layer.** Of 449 Amsterdam applicants still waiting, 371 are also blocked by TenneT, where flexible contracts are currently not possible ([Solar Magazine, Oct 2026](https://solarmagazine.nl/nieuws-zonne-energie/i44957/eindelijk-ruimte-op-het-amsterdamse-stroomnet-305-ondernemers-hebben-aansluiting-alsnog-binnen)). **Known.** Science Park's station and bottleneck layer: **not found** – this decides everything. UvA confirms Science Park requests were refused and put on the waiting list ([UvA, 2024](https://www.uva.nl/shared-content/uva/en/news/news/2024/07/impact-of-overloaded-electricity-grid-on-uvas-new-construction-and-sustainability.html)). **Known.**
+- **Lab load is flat.** Labs run 24/7; equipment >50% of electricity and monthly use varies <15% ([NREL](https://www.nrel.gov/docs/fy03osti/33410.pdf)). **Known** (US model). A flat load has little peak to shave, so a battery buys little headroom. **Believed.**
+- **Group tools are new.** Grid operators must offer the group transport agreement (GTO) only from 1 Jan 2027 ([Solar Magazine](https://solarmagazine.nl/nieuws-zonne-energie/i42583/bedrijven-kunnen-vanaf-2027-transportcapaciteit-delen-waakhond-verplicht-groepstransportovereenkomst)); it needs trust and an allocation key; cable pooling is capped at four installations; closed distribution systems fail if the owner takes <50% ([Dirkzwager](https://www.dirkzwager.nl/kennis/artikelen/transportcapaciteit-delen-waar-lopen-bedrijventerreinen-vast)). **Known.**
+- **Fire safety.** PGS 37-1 is not yet binding in the Bal (expected ~2028) but can be imposed via duty of care or permits ([IPLO](https://iplo.nl/thema/externe-veiligheid/pgs-37-1-37-2/)); batteries need space plus a risk contour (CE Delft). **Known.** Siting next to labs with hazardous substances will be harder. **Believed.**
+- **Economics.** Energy Storage NL: Liander's battery product needs fee, terms and capacity value to add up to a viable case ([Solar Magazine, Sep 2026](https://solarmagazine.nl/nieuws-zonne-energie/i44673/bedrijven-kunnen-wachtlijst-omzeilen-door-batterij-te-delen-met-stroomnet)). **Known.**
+
+## Routes A→B
+| Route | What it involves | Time to demo | Main risk | Cost driver |
+|---|---|---|---|---|
+| **A. Liander FlexPlus battery per building** | Battery sized ~2× need; half reserved for Liander, called ≤4 h/day, guaranteed monthly fee; Flex-E up to 40% subsidy ([source](https://solarmagazine.nl/nieuws-zonne-energie/i44673/bedrijven-kunnen-wachtlijst-omzeilen-door-batterij-te-delen-met-stroomnet)) | Weeks (paper case) | No waiting-list priority; only "short-term" expansion; useless if TenneT-blocked | Battery capex, PGS 37 siting |
+| **B. Science Park energy hub (recommended)** | GTO or group capacity-limiting contract (CBC) plus a shared park battery and load steering; template: Boekelermeer, Alkmaar (Group CBC + 5 MWh battery) ([NEC](https://newenergycoalition.org/en/batteries-make-growth-on-Boekelermeer-possible-again/); [Liander/Alkmaar](https://solarmagazine.nl/nieuws-zonne-energie/i39182/flexibel-groepscontract-voor-bedrijven-in-havengebied-alkmaar)) | Months (needs 2027 GTO) | Governance, allocation key, Liander/TenneT appetite | Hub operator, contracts, battery |
+| **C. No battery first** | Time-bound capacity (TCT), CBC, load steering, thermal buffers / heat-pump storage ([Liander brochure](https://noord-holland.nl/bestanden/pdf/Brochure%20Liander%20-%20Overzicht%20alternatieven%20bij%20transportschaarste.pdf); [RVO](https://www.rvo.nl/onderwerpen/netcongestie/mogelijkheden-bij-netcongestie)) | Weeks | Small headroom on flat lab loads | Controls, engineering time |
+
+B is the scalable product (hub operator/software + contracts, battery as one asset); it carries over to industrial parks, where loads are peakier. **Believed.** A and C are the quick wins inside it.
+
+## Fake-it-first
+Concierge "capacity desk" for Matrix: collect 12 months of 15-minute meter data for one building plus Liander's written answer on the bottleneck layer; model battery vs TCT vs CBC in a spreadsheet; file the application by hand. No hardware.
+
+**IP note:** little protectable; value sits in hub operation, data and contracts, not the battery. **Believed.**
+
+**Smallest test:** one call with Liander asking "Is Science Park blocked at Liander or at TenneT, and would FlexPlus or a group contract get Matrix more capacity before 2029?" (Rhijnspoor station, Oost, is only built 2027–2029 ([Liander](https://www.liander.nl/regio/amsterdam/amsterdam/rhijnspoor/archief/answers-to-questions-in-neighbourhood-survey)); whether it feeds Science Park: **not found**.)
+
+## People to talk to
+| Name | Organisation | Role | Type | Question to ask | Why them | Source URL | Route in |
+|---|---|---|---|---|---|---|---|
+| Geert Wijnen | Liander | Quoted for Liander on Amsterdam capacity (role not stated in source) | Grid operator | Is Science Park blocked at Liander or TenneT, and which of FlexPlus/TCT/GTO could unlock capacity there before 2029? | Speaks for Liander on Amsterdam waiting list | https://solarmagazine.nl/nieuws-zonne-energie/i44957/eindelijk-ruimte-op-het-amsterdamse-stroomnet-305-ondernemers-hebben-aansluiting-alsnog-binnen | Via Matrix (Evo/Raymond) or UvA Facility Services' existing Liander contact; else LinkedIn |
+| Jorn Bijl | Emmett Green | Project Lead, Boekelermeer batteries | Practitioner | What did it take to get Liander to accept a group CBC plus shared battery, and what would you do differently? | Ran the closest live analogue (business park, battery + group contract) | https://newenergycoalition.org/en/batteries-make-growth-on-Boekelermeer-possible-again/ | LinkedIn, or via New Energy Coalition (REFORMERS project) |
