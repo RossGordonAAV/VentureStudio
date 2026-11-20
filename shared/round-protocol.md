@@ -23,7 +23,7 @@ A round is one pass of the team over one idea. Target: done in one sitting.
 - Skip a seat if it has nothing material to add; say "CTO: no material view" rather than padding.
 
 ## The minimum next test
-**Conversation first.** If talking to someone could answer the riskiest assumption, that is the test (`shared/get-out-the-door.md`).
+**Showstopper first, conversation first.** The test targets the single question that kills the idea if the answer is wrong. If talking to someone could answer the riskiest assumption, that is the test (`shared/get-out-the-door.md`).
 
 Every synthesis proposes one, with:
 - **Assumption** it tests (one sentence).

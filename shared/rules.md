@@ -11,7 +11,7 @@ They override anything in an agent's own SKILL.md.
 
 ## Integrate, don't invent
 - Only propose existing, proven technology. If a route needs new science or R&D, say so and look for a route that doesn't.
-- People to talk to are about the real problems (customers, regulation, markets, operations), not about inventing technology. Skip researchers whose value is new tech.
+- People to talk to are ranked by who answers the showstopper fastest – usually industry. Academics only if they can answer it or introduce us to who can.
 
 ## Honesty
 - Mark every claim **Known** (with a source), **Believed** (reasoned) or **Guessed**.

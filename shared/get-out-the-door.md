@@ -7,8 +7,10 @@ Ross rates talking to people above any desk work. A conversation is usually the 
 - When a conversation is the answer, **do a quick search and name real people**, not "talk to some hospitals".
 
 ## Who to talk to first (Ross, 20 Nov 2026)
-1. **UvA academics first** (and Amsterdam UMC where relevant): people Ross can easily buy a coffee to talk through the real problems. List these before anyone else.
-2. Only then move up the value chain: policy experts, then industry, incumbents, buyers.
+1. **Showstopper first.** Name the one question that kills the idea if the answer is wrong, and rank first whoever can answer it fastest and most authoritatively.
+2. **Engineering, operations and market questions → straight to industry** (the operator, the regulator, the incumbent, the buyer).
+3. **Academics (UvA, or VU) only when they can answer the showstopper themselves or introduce us to who can.** Not for a purely academic viewpoint.
+4. Everything else comes after the showstopper is answered.
 
 ## How Ross introduces himself (Ross, 20 Nov 2026)
 In every outreach draft: "I'm Ross Gordon, investment manager at Amsterdam Academic Ventures – we're exploring some concepts for one of our companies." Never introduce him as a chemical engineer, and don't describe the idea as his own side project.
