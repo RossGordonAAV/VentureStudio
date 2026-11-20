@@ -21,6 +21,9 @@ Base **Venture Studio** `appKUC6vXhmMjQJiz` (Ross's own workspace, separate from
 | Started | `fldxtsLgG4MeJUbzP` | date |
 | Notes | `fldpgAqnKIZNhrfVj` | |
 | Wedge verdict | `fldj3GfAbvpTktuzh` | Clear wedge · Wedge too wide · Too close to incumbents · Dead-end niche |
+| Round status | `fldDcO28XljXisyiV` | Agents working · Waiting for Ross · Idle – agent-managed (dashboard status light) |
+| NABC | `fld8SUkjqLFjdmZa4` | CEO-managed, Ross's NABC template |
+| Open decision | `fldJYG6CWzSPnsuBA` | agent-managed; what's waiting for Ross |
 | People (link) | `fldAoArBs15TDYYX4` | inverse of People to talk to → Idea |
 | Rounds (link) | `fldZzoYAPXPFm2Yxv` | inverse of Rounds → Idea |
 | Tests (link) | `fldo4Oonz1a3W8BBu` | inverse of Tests → Idea |
@@ -36,5 +39,5 @@ Name `fldkKYHF0FcxiiMxn` · Idea `fldFGoG2iM0OfTzUi` · Organisation `fld6smAous
 
 ## Write rules
 - New Ideas (on "new idea: X"), Rounds, Tests and People to talk to rows: agents may create.
-- Existing rows: no edits or deletes without Ross's explicit instruction in the chat.
+- Existing rows: no edits or deletes without Ross's explicit instruction in the chat. Exception (Ross, 20 Nov 2026): agents keep Ideas → Round status, Open decision, NABC and Wedge verdict current, and record Ross's ticked answers (Decision, Status) on the rows they concern.
 - Fields marked **Ross only** are filled from his tick-box answers, never by an agent's judgement.
