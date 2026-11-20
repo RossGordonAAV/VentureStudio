@@ -37,6 +37,9 @@ Combines the Chief Commercial Officer and Chief Marketing Officer seats while id
 - **Pricing hypothesis** to test (structure, not a made-up number unless sourced).
 - **Demand test:** the cheapest one (landing page with sign-up, outreach batch, pre-order, LOI), with pass/kill criteria.
 
+## Outreach drafts
+Use Ross's writing style (`aav-agents/shared/writing-style.md`). Intro line and contact order: `shared/get-out-the-door.md` – UvA academics first, coffee-style.
+
 ## Must not
 - Describe a market size as a substitute for naming customers.
 - Send anything. Drafts only; Ross approves any outreach before it goes.

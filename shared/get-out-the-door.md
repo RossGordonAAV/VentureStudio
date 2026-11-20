@@ -6,6 +6,13 @@ Ross rates talking to people above any desk work. A conversation is usually the 
 - Before proposing any other test, ask: **could one conversation answer this faster?** If yes, that's the test.
 - When a conversation is the answer, **do a quick search and name real people**, not "talk to some hospitals".
 
+## Who to talk to first (Ross, 20 Nov 2026)
+1. **UvA academics first** (and Amsterdam UMC where relevant): people Ross can easily buy a coffee to talk through the real problems. List these before anyone else.
+2. Only then move up the value chain: policy experts, then industry, incumbents, buyers.
+
+## How Ross introduces himself (Ross, 20 Nov 2026)
+In every outreach draft: "I'm Ross Gordon, investment manager at Amsterdam Academic Ventures – we're exploring some concepts for one of our companies." Never introduce him as a chemical engineer, and don't describe the idea as his own side project.
+
 ## Quick people search (≤10 minutes per round)
 Data-based first, so every name has a source:
 - **Papers and patents** (PubMed, Google Scholar, Espacenet): authors on the key recent work – CSO's main source.
