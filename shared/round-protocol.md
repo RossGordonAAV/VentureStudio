@@ -37,6 +37,9 @@ Every synthesis proposes one, with:
 Good tests: 10 customer calls with a set script, a landing page with a sign-up, a pre-order or letter of intent, a concierge version done by hand, a call with two labs on feasibility, a quote from a supplier.
 Bad tests: "more desk research", "build an MVP", anything over a month.
 
+## Physical products
+If the idea is a physical product and the decision is to build, the CEO proposes a **Prototype Lab** run (`shared/prototype-lab.md`) instead of a build test. The Lab's roadmap and costs feed the next round.
+
 ## Decisions
 - **Keep going** – run the test, next round on the result.
 - **Pivot** – change customer, problem or route; new brief.

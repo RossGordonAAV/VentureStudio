@@ -28,6 +28,18 @@ Action creates information. Analysis doesn't. Every round ends with a **small, r
 | Wedge check | `wedge` | Critical, not negative | Is there a real niche to start in, and can it grow into something substantial? |
 | Audit team | `audit` | Light investor panel, sceptical, blind | Would we fund this on what's in front of us? If not, what instead? |
 
+## Prototype Lab (physical products)
+A separate subsection that turns a physical-product idea into a **V1 → V2 → V3** path. Runs when Ideas → Physical product is ticked and a round decides to build, or when Ross asks. Protocol: `shared/prototype-lab.md`.
+
+| Seat | Agent | Stance | One question |
+|---|---|---|---|
+| Industrial design lead | `prototype/design-lead` | Runs the Lab; one product, three versions, one path | What are the best V1, V2 and V3, and what gets us from one to the next? |
+| V1 – off the shelf | `prototype/v1-off-the-shelf` | Scavenger | What can a user hold within a week, from parts we can buy today? |
+| V2 – custom | `prototype/v2-custom` | Specialist maker | Which parts do we make (3D print, laser, CNC, casting, sewing) for a small sellable batch, first units within a week? |
+| V3 – volume | `prototype/v3-volume` | Manufacturing engineer | At volume, which processes give a better product at lower unit cost, and when does tooling pay back? |
+
+No tooling or minimum orders before the V2 → V3 gate. The Lab's costs feed the next round's CFO; its gates feed the CEO's next test.
+
 ## How a round runs
 1. **Brief (CEO).** One-liner, who it's for, the question for this round, the riskiest assumption.
 2. **Specialists in parallel.** CFO, CTO, Strategy, Go-to-Market, Wedge check (and CSO when science matters) each answer the brief **without seeing each other's output**.

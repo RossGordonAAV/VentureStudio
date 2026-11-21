@@ -13,15 +13,20 @@ Start with `CHARTER.md`.
 | `shared/get-out-the-door.md` | Conversations first; quick data-based people search |
 | `shared/airtable-map.md` | Venture Studio base IDs and write rules |
 | `agents/<seat>/SKILL.md` | One persona per seat |
+| `shared/prototype-lab.md` | Prototype Lab protocol – V1/V2/V3 for physical products |
+| `agents/prototype/<agent>/SKILL.md` | Prototype Lab: design lead, V1, V2, V3 |
 
 ## Seats
 `ceo` · `cfo` · `cto` · `cso-science` (only when science matters) · `strategy` · `go-to-market` · `wedge` · `audit` (blind)
+
+Prototype Lab: `prototype/design-lead` · `prototype/v1-off-the-shelf` · `prototype/v2-custom` · `prototype/v3-volume`
 
 ## Use
 In a chat with this repo attached:
 - **"New idea: X"** – creates the Idea record and runs round 1.
 - **"Run a round on X"** – next round on an existing idea.
 - **"Test done on X"** – reads the result and proposes the next round.
+- **"Prototype X"** – Prototype Lab run: design brief, V1/V2/V3 in parallel, roadmap with gates.
 
 ## Where things live
 - Airtable → **Venture Studio** base `appKUC6vXhmMjQJiz` (Ross's own workspace).

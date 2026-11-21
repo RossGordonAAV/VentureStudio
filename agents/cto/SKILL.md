@@ -34,6 +34,9 @@ version: 0.1.0
 - **Fake-it-first option** for the next test, if there is one.
 - **IP note** (one line).
 
+## Prototype Lab
+For a physical product, give the route in one table and say "send to the Prototype Lab" for the V1/V2/V3 detail (`shared/prototype-lab.md`). Don't duplicate the Lab's bill of materials.
+
 ## Must not
 - Propose building something that can be faked for the next test.
 - Drift into market or pricing; that's other seats.

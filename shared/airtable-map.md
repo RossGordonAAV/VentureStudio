@@ -25,6 +25,7 @@ Base **Venture Studio** `appKUC6vXhmMjQJiz` (Ross's own workspace, separate from
 | NABC | `fld8SUkjqLFjdmZa4` | CEO-managed, Ross's NABC template |
 | Open decision | `fldJYG6CWzSPnsuBA` | agent-managed; what's waiting for Ross |
 | Explainer | `fldkO3UkwIRnz9fTO` | CEO-managed, 200–300 words |
+| Physical product | *(to create)* | checkbox – ticked → Prototype Lab can run |
 | Why the gap exists | `fld8Nba0rjjaV3Wh1` | Strategy/Wedge via CEO |
 | People (link) | `fldAoArBs15TDYYX4` | inverse of People to talk to → Idea |
 | Rounds (link) | `fldZzoYAPXPFm2Yxv` | inverse of Rounds → Idea |
@@ -39,7 +40,10 @@ Test `fldUX3edVgPWjFgxi` · Idea `fldYTOqQV0FQbqrHq` · Assumption tested `fldrv
 ## People to talk to `tbls0CAuRt0IIKYhl`
 Name `fldkKYHF0FcxiiMxn` · Idea `fldFGoG2iM0OfTzUi` · Organisation `fld6smAouslrid8iy` · Role `fld7PTFLATiuu9Lom` · Type `fldfV2149zx8XDdqX` (Potential customer · Domain expert · Scientist · Competitor or ex-competitor · Channel or partner · Investor) · Question to ask `fldX5unNZiUnVulrE` · Why them `fldDXGAWX3M8eb5lJ` · Source `fld0XBIaRJH9bX6gL` (url, required) · Route in `fld3f2ylfTqHTgvv0` (Warm intro · Ross knows them · LinkedIn · Email · Event) · Suggested by `flduUgdKZUZyL6tOy` · Status `fldBAzAE5uuPpJBYf` (Suggested · Approved · Contacted · Met · Not pursuing – **Ross only** beyond Suggested) · Learning `fldd0pyP56ZYn38BZ` · Met on `fldwbr4HJRYJaWOot` · Rank `fldN8vBcwnh8mavXz` (order within the idea)
 
+## Prototypes *(to create – pending Ross's OK)*
+One row per version per Lab run. Prototype (primary, "<Idea> – V1 – <date>") · Idea (link) · Version (V1 · V2 · V3) · Purpose – what it proves · Make route (Off the shelf · 3D print · Laser/CNC · Casting · Sewing · Injection moulding · Extrusion · Contract manufacturer · Mixed) · Bill of materials / spec (long text) · Unit cost € (sourced only) · Set-up cost € (sourced only) · Lead time (days) · Gate to next version · Quotes requested · Status (Proposed · Building · Built · Tested · Superseded – **Ross only** beyond Proposed) · Result / learning · Photos (attachment) · Lab run date
+
 ## Write rules
-- New Ideas (on "new idea: X"), Rounds, Tests and People to talk to rows: agents may create.
+- New Ideas (on "new idea: X"), Rounds, Tests, People to talk to and Prototypes rows: agents may create.
 - Existing rows: no edits or deletes without Ross's explicit instruction in the chat. Exception (Ross, 20 Nov 2026): agents keep Ideas → Round status, Open decision, NABC, Explainer, Why the gap exists, Wedge verdict and People → Rank current, and record Ross's ticked answers (Decision, Status) on the rows they concern.
 - Fields marked **Ross only** are filled from his tick-box answers, never by an agent's judgement.
