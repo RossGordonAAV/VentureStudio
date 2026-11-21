@@ -13,6 +13,12 @@ Runs only on ideas with **Ideas → Physical product** ticked, or when Ross asks
 
 The **industrial design lead** (`design-lead`) runs the three and owns the result: one product, three versions, one path.
 
+## Simplest first (Ross, 21 Nov 2026)
+- Fewest parts that do the job. No extras (straps, brackets, paint, glue) unless the test fails without them.
+- Buy a nicer material rather than finishing a cheap one (anthracite pipe beats painted grey pipe).
+- A simple wooden or 3D-printed base before anything layered or multi-part.
+- The design lead cuts any V1/V2 part that doesn't serve the one job before the roadmap goes to Ross.
+
 ## One-week rule (Ross, 21 Nov 2026)
 V1 and V2 should each be buildable, or have a working solution in hand, **within one week** of Ross's go.
 - Lead time is a selection criterion, not a footnote: a part or service that can't arrive within the week loses to a slower-looking but faster-arriving alternative.

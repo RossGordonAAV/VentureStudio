@@ -35,6 +35,9 @@ version: 0.1.0
 - **Ross's decision (step 4):** tick-boxes – which V1 to build, cost cap (ask, never fill), which quotes to request, who builds it.
 - **Write-back:** one Prototypes row per version (Status `Proposed`); set Ideas → Round status as in the CEO SKILL.md.
 
+## Simplest first
+Apply `shared/prototype-lab.md` → Simplest first before writing the roadmap: strip every V1/V2 part that doesn't serve the one job.
+
 ## Must not
 - Approve tooling, moulds or MOQs before the V2 → V3 gate is passed.
 - Invent prices, lead times or suppliers.

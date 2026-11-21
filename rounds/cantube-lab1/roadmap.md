@@ -35,3 +35,10 @@ Does a 66 mm can drop through **socket + end stop with the cap off**? Opening is
 
 ## Quotes to request (after V1 passes)
 Snijlab/Laserlokaal (base, 10 and 50 sets) · Hubs/Xometry (collar + handle, FDM 10, MJF 50) · Marley/Martens wholesaler (anthracite tube cut, wall thickness, 1k/10k) · Protolabs EU + one Asia moulder (base + collar family mould) · MyParcel (flat-pack box rate).
+
+## V1 revised – simplest first (Ross, 21 Nov 2026)
+Ross: the first V1 was over-designed. New V1:
+- **Tube:** Marley regenpijp Ø75 anthracite, 2.5 m (Hornbach, €12.95) → 2 tubes of 1,170 mm per length; 2 lengths for a 3-tube cluster. Bore not published – measure. **Online only:** no Amsterdam-area branch stock (Sloterdijk, Zaandam), home delivery €62.50, 6 working days (Hornbach site, 21 Nov).
+- **Bottom:** push-on cap, as on the home prototype.
+- **Base – compare two:** (a) wooden board with three 76 mm holes (hole saw, DIY store, same day); (b) 3D-printed base – Claude can draw the file once the cap's outer diameter is measured.
+- **Dropped:** paint, primer, sockets, glue, straps, brackets.

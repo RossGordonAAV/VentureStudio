@@ -2,6 +2,7 @@
 
 ## 0.3.0 – 21 Nov 2026
 - Prototype Lab subsection for physical products: industrial design lead plus V1 (off the shelf), V2 (custom: 3D printing, laser/CNC, casting, sewing) and V3 (volume: tooling, DFM, contract manufacturing) agents.
+- Simplest first: fewest parts, nicer material over finishing, simple base (Ross's feedback on the can tube Lab 1).
 - Local first where faster: Ross collects from Amsterdam stores/bureaus when quicker than delivery; "Get it" column in V1/V2 parts tables.
 - One-week rule: V1 and V2 each buildable within a week of Ross's go; lead time is a selection criterion.
 - Lab protocol with default gates V1 → V2 → V3; no tooling before the V2 → V3 gate.
