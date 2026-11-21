@@ -42,3 +42,10 @@ Ross: the first V1 was over-designed. New V1:
 - **Bottom:** push-on cap, as on the home prototype.
 - **Base – compare two:** (a) wooden board with three 76 mm holes (hole saw, DIY store, same day); (b) 3D-printed base – Claude can draw the file once the cap's outer diameter is measured.
 - **Dropped:** paint, primer, sockets, glue, straps, brackets.
+
+## V1 revised – final shopping list (21 Nov 2026, browser-checked)
+Hornbach Marley anthracite is online only (€62.50 delivery, 6 days) – dropped. Gamma stocks anthracite in 80 mm instead:
+- **Tube:** Martens HWA buis antraciet Ø80 mm, 4 m, €18.69 – wall 1.5 mm (Gamma BE spec) → bore ~77 mm. Cuts into exactly 3 × 1,170 mm. In stock today: Gamma Amsterdam-Overamstel (Spaklerweg 44) 11, Amsterdam-Noord (Klimopweg 65) 6, Willem de Zwijgerlaan 1. Open until 18:00.
+- **Bottom cap:** no anthracite 80 mm cap found. Grey Martens eindkap om de buis HWA 80 mm (~85 mm across, 22 mm high; Hornbach €1.49 – check Gamma aisle). Hidden by the base.
+- **Trade-off (Believed):** 77 mm bore vs 66 mm can = ~5.5 mm radial gap; the air-cushion descent of the 75 mm prototype will be weaker. Cans can't turn over (115 mm tall). Test with the first tube.
+- **Bases:** wooden board with three holes sized to the capped end; 3D-printed base – Claude draws once Ross gives the cap's outer diameter.
