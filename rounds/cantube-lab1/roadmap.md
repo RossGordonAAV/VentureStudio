@@ -71,3 +71,12 @@ Hornbach Marley anthracite is online only (€62.50 delivery, 6 days) – droppe
 | Base | wooden board with three holes vs 3D-printed base (Claude draws once cap OD is measured) | DIY store / print |
 Rejected: Saninstal stainless rozet Ø80 mm (€17.99, Praxis) – sized for 80 mm pipe, loose on 75 mm.
 **Test:** does wrapping keep the sound (it should – inside unchanged); does the foil + rim read as homeware; do the tubes lift out and tip into a bag easily; do the kids still use it.
+
+## V2 – Gamma-only shopping list (21 Nov, 3 tubes)
+- Martens RIO buis grijs Ø75 mm, 4 m, €18.29 → 3 × 1,170 mm. Stock 21 Nov: Overamstel 11, Slotervaart 9, Amsterdam-Noord 5, Willem de Zwijgerlaan 0. Same Martens smooth 3-layer pipe family as Ecomar; wall not published – drop a can through in store.
+- 3 × Martens eindkap PVC 75 mm grijs, €1.79.
+- 3 × d-c-fix decoratiefolie mat zwart 45 × 200 cm, €6.99.
+- GAMMA aluminiumtape 50 mm × 5 m, €5.49 (or Tesa aluminium 50 mm × 10 m, €10.29).
+- GAMMA gatenzaagset hout 6-delig 60/68/74/80/90/100 mm, €30.99 – pick the size after measuring the cap.
+- Board for the base: price not checked.
+Listed total excl. board: €81.11.
