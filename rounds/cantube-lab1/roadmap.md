@@ -49,3 +49,8 @@ Hornbach Marley anthracite is online only (€62.50 delivery, 6 days) – droppe
 - **Bottom cap:** no anthracite 80 mm cap found. Grey Martens eindkap om de buis HWA 80 mm (~85 mm across, 22 mm high; Hornbach €1.49 – check Gamma aisle). Hidden by the base.
 - **Trade-off (Believed):** 77 mm bore vs 66 mm can = ~5.5 mm radial gap; the air-cushion descent of the 75 mm prototype will be weaker. Cans can't turn over (115 mm tall). Test with the first tube.
 - **Bases:** wooden board with three holes sized to the capped end; 3D-printed base – Claude draws once Ross gives the cap's outer diameter.
+
+## Ross's idea, 21 Nov 16:31 – drawing tube + metal rim
+- **Drawing tube as V1 body:** Linex telescopic drawing tube, 60–120 cm, 7.5 cm diameter, strap included, €22.95, next-day (123inkt). 120 cm fits 10 × 330 ml cans. Risk: 7.5 cm is likely the outer size, and the telescopic inner section is narrower – check a 66 mm can passes the full length. The 6.5 cm tubes are too small.
+- **Metal rim (premium):** anthracite/metal tube with metal end rims, like a gas cylinder's look. V2/V3 design cue; rim source and price: quote needed.
+- Found cylinder (lachgas): don't cut or reuse (pressure risk); hand in at an Amsterdam afvalpunt.
