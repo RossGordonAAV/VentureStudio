@@ -1,0 +1,35 @@
+# CSO – Gym-wear laundry brand – R1 (21 Nov 2026)
+
+**Competitor map**
+| Name | Type | What they do | Size / price (sourced) |
+|---|---|---|---|
+| [HEX Performance](https://prnewswire.com/news-releases/hex-performance-closes-5-million-funding-round-led-by-lykos-capital-partners-301023342.html) (US) | Direct | Activewear detergent, ex-pro-athlete founder | $5m round (Lykos, Mar 2020); 2,000+ stores; ~$0.37/load ([GGR](https://www.garagegymreviews.com/best-detergent-for-sweaty-clothes)) – Known |
+| [WIN](https://www.windetergent.com/pages/why-win) (US) | Direct | Oxygen ions "instead of enzymes", low pH; hot wash needed | $0.35–0.47/load ([GGR](https://www.garagegymreviews.com/best-detergent-for-sweaty-clothes)) – Known |
+| [Persil Activewear Clean](https://www.henkel-northamerica.com/press/press-releases-and-kits/2025-10-02-persil-laundry-detergent-announces-persil-activewear-clean-as-a-2025-product-of-the-year-usa-winner-2033748) (Henkel, US) | Incumbent | Launched 2024, liquid + pacs; 2025 Product of the Year USA | Known |
+| Tide Pods + Febreze Sport / [Ariel Pods + Febreze](https://ariel.co.uk/en-gb/product/by-type/pods/ariel-platinum-pods-febreze-odour-defence) (P&G) | Incumbent | Fragrance-led sport/odour pod line extensions; reviewers say Tide "temporarily masks" ([GGR](https://www.garagegymreviews.com/best-detergent-for-sweaty-clothes)) | $0.41/load (Tide) – Known |
+| [Miele Sport caps](https://www.miele.co.uk/product/12014050/sport-caps-wa-csp-0603-l) + [TwinDos UltraPhase 1/2](https://www.miele.co.uk/e/topic/ZST_0000000000000000200020118_00) | Incumbent (appliance-locked) | Sport caps for synthetics; TwinDos keeps enzymes and bleach in separate phases, dosed at set points | £1.45/wash (caps) – Known |
+| [Nikwax BaseWash](https://www.bikeradar.com/news/nikwax-base-wash) / [Base Fresh](https://www.gooutdoors.co.uk/products/nikwax-base-fresh-1l-clear-285159) (UK) | Indirect (outdoor) | Wash + deodorising conditioner for synthetic base layers; claims to beat household detergent on odour | Price not found |
+| NL/EU shelf: [AH Sport wasmiddel](https://www.ah.nl/producten/product/wi613919/ah-sport-wasmiddel), [Dr. Beckmann Power Wash Sport](https://www.knuspr.de/103636-dr-b-quick-power-wash-sport-800ml), [Dylon Sport](https://www.allyoucare-byhenkel.com/gb/en/brands/laundry-and-home/dylon-detergent/products/sport/dylon-liquid-sport-detergent.html), [HG sport additive](https://hg.eu/nl/producten/hg-wasmiddeltoevoeging-tegen-nare-geurtjes-in-sportkleding-0-5kg) | Direct (own-label/mid-tier) | Sport detergents already on Dutch shelves; HG is a 25 ml add-on dosed *with* normal detergent | Prices not found |
+| Practice change (vinegar soak, half dose, 30 °C, no softener) | Substitute | Advised by [Gymshark](https://www.gymshark.com/es-US/blog/article/how-to-remove-sweaty-smells-from-your-workout-clothes) and [Which?](https://which.co.uk/news/article/tips-for-washing-gym-clothes-amQXH2R0mcbw) | Free |
+
+Also seen, not assessed: Nathan (newer formula "less effective on odor" per GGR reviewers), Sport Suds, The Laundress Activewear, [GymSpin](https://www.trendhunter.com/trends/gymspin) (gym-branded enzyme pod, 2021), [Atsko Sport-Wash + U-V Killer combo](https://lancasterarchery.com/products/atsko-u-v-killer-sport-wash-laundry-combo) (hunting). Gymshark and Lululemon sell no laundry product – not found. Rockin' Green, Ecover, Omo, Grangers, Vanish sport claims – not checked.
+
+**Why the gap exists**
+*WHY INCUMBENTS AREN'T DOING THIS* – (1) Unit dose won on convenience: Tide Pods (Feb 2012) followed tablets (1960s/90s) and Liquitabs (2001) ([Wikipedia](https://en.wikipedia.org/wiki/Laundry_detergent_pod)); unbundling runs against 14 years of P&G/Henkel strategy – Known/Believed. (2) Chemistry: bleach breaks down other ingredients if mixed in one liquid ([Miele](https://www.miele.co.uk/e/topic/ZST_0000000000000000200020118_00)), so liquids and pods tend to ship without oxygen bleach – Known; that Ross's Vanish + capsule combination cancels enzymes in the drum – Believed, not verified. (3) Sport SKUs are cheap line extensions led by fragrance (Febreze), not a separate system – Known (products) / Believed (motive). (4) The physics favours nobody: polyester binds skin oils carrying odourants; antimicrobials only partly help; residual smell plateaus after 5–10 washes ([U Alberta, McQueen](https://www.ualberta.ca/en/folio/2020/07/research-reveals-why-its-hard-to-get-the-smell-out-of-polyester.html)) – Known.
+*WHERE THE GAP APPEARS TO BE* – No gym-culture brand found in NL/EU; HEX and WIN are US-only on the evidence seen – Believed. The only sequenced enzyme-then-bleach system found is Miele TwinDos, locked to Miele machines – Known. No consumer "strip oils → oxygen/odour step" kit for gym kit found – Known (not found).
+*RISKS TO THE GAP* – Henkel shipped Persil Activewear in 2024 and could bring it to EU quickly – Believed. AH own-label sport detergent caps the price – Believed. Two steps add friction against the convenience that pods won on – Believed. Efficacy may not be provable: sport-detergent reviews are mixed and the smell plateaus – Known (reviews) / Believed.
+
+**Why we win:** EU white space for a gym brand; real mechanism (oil-bound odour) to build a sequenced claim on; repeat purchase.
+**Why we lose:** incumbents copy in one cycle; hard to prove efficacy blind; low-ticket DTC economics [Ross: confirm CAC/price].
+
+**Why now:** Henkel's 2024 Activewear launch and its award show the big players now see activewear laundry as a segment – Believed.
+
+**Pre-mortem:** 1. Get outcompeted (Persil/Ariel EU sport launch). 2. No market need (HEX/WIN-type product + 30 °C/half dose already good enough). 3. Pricing/cost issues (two SKUs at own-label-beating price).
+
+**Strategic test (this week):** call Drew Westervelt (HEX) – whether sequenced/two-step was tried and why not; in parallel, Ross washes his own kit with WIN (oxygen) and HEX, imported, against AH Sport. If either clears the smell, the efficacy gap is closed and it becomes a branding play only.
+
+**People to talk to**
+| Name | Organisation | Role | Type | Question to ask | Why them | Source URL | Route in |
+|---|---|---|---|---|---|---|---|
+| Drew Westervelt | HEX Performance | Founder & COO (as of Mar 2020) | Industry – competitor founder | Did you test a two-step (oil strip, then oxygen) system, and why did one bottle win? | Built the leading US activewear detergent; knows retail and efficacy data | https://prnewswire.com/news-releases/hex-performance-closes-5-million-funding-round-led-by-lykos-capital-partners-301023342.html | LinkedIn; check current role first |
+| Rachel McQueen | University of Alberta | Clothing & textiles scientist | Academic – answers the showstopper | Does any detergent or sequence measurably extract oil-bound odourants from polyester past the 5–10-wash plateau? | Co-author of the polyester odour-retention study | https://www.ualberta.ca/en/folio/2020/07/research-reveals-why-its-hard-to-get-the-smell-out-of-polyester.html | University email |
