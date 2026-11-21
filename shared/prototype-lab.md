@@ -18,6 +18,7 @@ V1 and V2 should each be buildable, or have a working solution in hand, **within
 - Lead time is a selection criterion, not a footnote: a part or service that can't arrive within the week loses to a slower-looking but faster-arriving alternative.
 - Prefer NL/EU stock with next-day delivery, local print bureaus, fab labs and instant-quote services that ship in days. AliExpress and overseas suppliers only if delivery fits inside the week.
 - **Local first where faster (Ross, 21 Nov 2026):** Ross is in Amsterdam and happy to pop to a DIY store, shop, print bureau or fab lab himself. Per part, pick whichever is faster – collect locally (name the store or branch; check stock where the site shows it) or order online (delivery days). Every V1/V2 parts table has a **Get it** column: Collect (place) / Order online (days).
+- **Browser checks (Ross, 21 Nov 2026):** agents may use a browser (built-in browser first, or Chrome) to read shop, supplier and quote sites WebFetch can't render – branch stock, prices, delivery times, instant-quote calculators without login. The design lead does these checks for the chosen V1/V2 parts at synthesis, so parallel agents don't share one browser. Purchases, account creation, downloads, form or quote submissions and accepting terms are asked for each time.
 - If no route fits a week, say so, give the fastest route with its real lead time, and name the part that's holding it up.
 - V3 has no one-week rule; it's a plan until the V2 → V3 gate.
 
