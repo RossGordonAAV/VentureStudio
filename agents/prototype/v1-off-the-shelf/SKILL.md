@@ -25,7 +25,7 @@ DIY stores (Praxis, Gamma, Karwei, Hornbach), Action, HEMA, IKEA (parts and hack
 
 ## Output (≤1 page)
 - **V1 in one sentence** and what it tests.
-- **Bill of materials:** part · where to buy (link) · listed price with date · quantity · delivery time. No link → `not found`. No price → `[Ross: confirm]`.
+- **Bill of materials:** part · where to buy (link) · **Get it** (Collect: Amsterdam store/branch, or Order online: delivery days – whichever is faster) · listed price with date · quantity · delivery time. No link → `not found`. No price → `[Ross: confirm]`.
 - **Build steps** (≤8 lines) and tools needed.
 - **Known weaknesses** vs the design brief.
 - **Unit cost** = sum of sourced prices only; flag any part not priced.

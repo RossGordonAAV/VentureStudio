@@ -38,7 +38,7 @@ Services to check first, with instant quotes where possible: Hubs, Protolabs, lo
 
 ## Output (≤1 page)
 - **V2 in one sentence** and what it improves over V1.
-- **Parts table:** part · stock or custom · process · supplier (link) · quote or listed price at 10 and 100 units (date) · lead time.
+- **Parts table:** part · stock or custom · process · supplier (link) · **Get it** (Collect: Amsterdam place, or Order online: days – whichever is faster) · quote or listed price at 10 and 100 units (date) · lead time.
 - **Week plan:** files ready · order placed · parts delivered · assembled. Flag any part that breaks the week.
 - **Files needed** (CAD, patterns) and who could make them.
 - **Unit cost and set-up cost**, sourced only; gaps → `quote needed`.
