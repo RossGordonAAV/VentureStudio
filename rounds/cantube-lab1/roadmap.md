@@ -54,3 +54,20 @@ Hornbach Marley anthracite is online only (€62.50 delivery, 6 days) – droppe
 - **Drawing tube as V1 body:** Linex telescopic drawing tube, 60–120 cm, 7.5 cm diameter, strap included, €22.95, next-day (123inkt). 120 cm fits 10 × 330 ml cans. Risk: 7.5 cm is likely the outer size, and the telescopic inner section is narrower – check a 66 mm can passes the full length. The 6.5 cm tubes are too small.
 - **Metal rim (premium):** anthracite/metal tube with metal end rims, like a gas cylinder's look. V2/V3 design cue; rim source and price: quote needed.
 - Found cylinder (lachgas): don't cut or reuse (pressure risk); hand in at an Amsterdam afvalpunt.
+
+## Update 21 Nov 17:38 – Ross's home test changes the brief
+- **V1 is done:** Ross's 1 m grey Ecomar 75 mm with red push-on cap. Next build is V2.
+- **Use case = home storage only.** Lift a tube out, tip it into a bag, take the bag to the return machine. Carry handle, screw cap and drip seal are no longer needed; the bottom can stay permanently closed.
+- **New key feature – sound and vibration.** The tight 75 mm bore (~2.5 mm gap) makes cans vibrate and hum on the way down. Ross's kids collected last night's cans themselves this morning to drop them in. Fun is a selling point and gets the chore done.
+- **Consequence:** keep the 75 mm Ecomar bore. Gamma 80 mm anthracite (~77 mm bore) dropped – the effect would likely weaken (Believed). Premium look comes from the finish, not a different pipe.
+
+## V2 – home, simplest first
+| Part | What | Source |
+|---|---|---|
+| Tube | Ecomar 75 mm cut to 1,170 mm (10 cans) from a 2 m length | Praxis (2 m/4 m listed; ask in store) |
+| Finish | d-c-fix self-adhesive foil, matt black or matt grey, 45 × 200 cm, €6.99 – one sheet per tube | Gamma, click & collect after 1 hour |
+| Metal rim (cheap test) | aluminium tape band round the top 3–5 cm | any DIY store – price not checked |
+| Bottom | keep push-on cap, closed for good; cap hidden in the base | already owned |
+| Base | wooden board with three holes vs 3D-printed base (Claude draws once cap OD is measured) | DIY store / print |
+Rejected: Saninstal stainless rozet Ø80 mm (€17.99, Praxis) – sized for 80 mm pipe, loose on 75 mm.
+**Test:** does wrapping keep the sound (it should – inside unchanged); does the foil + rim read as homeware; do the tubes lift out and tip into a bag easily; do the kids still use it.
