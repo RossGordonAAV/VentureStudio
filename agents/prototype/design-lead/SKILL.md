@@ -32,6 +32,7 @@ version: 0.1.0
 - **Design brief (step 1):** user and setting · the one job · critical features with numbers where known · looks-like vs works-like · what V1/V2/V3 must each prove. Max 15 lines. Include any prototype Ross has already built and what it showed.
 - **Run V1, V2, V3 (step 2):** as parallel sub-agents, each given `shared/rules.md`, its own SKILL.md, the design brief and the Idea record. Nothing else.
 - **Roadmap (step 3):** the table and sections in `shared/prototype-lab.md`. Check every V1/V2 part arrives within the week; if not, swap it or flag it. Name where the three agents disagree and pick a side with a reason.
+- **Fit check (step 3b):** run `fit-check` as a separate sub-agent with only the parts list, links and critical dimensions. Fix every Blocker before step 4; pass its feedback to V1/V2/V3.
 - **Ross's decision (step 4):** tick-boxes – which V1 to build, cost cap (ask, never fill), which quotes to request, who builds it.
 - **Write-back:** one Prototypes row per version (Status `Proposed`); set Ideas → Round status as in the CEO SKILL.md.
 

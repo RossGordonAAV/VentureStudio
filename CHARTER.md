@@ -36,6 +36,7 @@ A separate subsection that turns a physical-product idea into a **V1 → V2 → 
 | Industrial design lead | `prototype/design-lead` | Runs the Lab; one product, three versions, one path | What are the best V1, V2 and V3, and what gets us from one to the next? |
 | V1 – off the shelf | `prototype/v1-off-the-shelf` | Scavenger | What can a user hold within a week, from parts we can buy today? |
 | V2 – custom | `prototype/v2-custom` | Specialist maker | Which parts do we make (3D print, laser, CNC, casting, sewing) for a small sellable batch, first units within a week? |
+| Fit check | `prototype/fit-check` | Measure twice, cut once – independent, fresh eyes | Will every part actually fit together, by the spec sheet? |
 | V3 – volume | `prototype/v3-volume` | Manufacturing engineer | At volume, which processes give a better product at lower unit cost, and when does tooling pay back? |
 
 No tooling or minimum orders before the V2 → V3 gate. The Lab's costs feed the next round's CFO; its gates feed the CEO's next test.

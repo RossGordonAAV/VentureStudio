@@ -34,7 +34,8 @@ V1 and V2 should each be buildable, or have a working solution in hand, **within
 | 1 | Design lead | Idea record, latest round synthesis, earlier Prototypes rows | **Design brief**: user and use, the one job the product must do, critical-to-function features and dimensions, looks-like vs works-like split, what V1/V2/V3 must each prove |
 | 2 | V1, V2, V3 in parallel | Design brief + Idea record only | Own one-pager (see each SKILL.md) |
 | 3 | Design lead | All of step 2 | **Roadmap** (≤1 page, format below) + the minimum next build |
-| 4 | Ross | Roadmap | Tick-boxes: which V1 to build, cost cap, which quotes to request, owner |
+| 3b | Fit check (`fit-check`) | Parts list, cut plan, links, critical dimensions only | Measure twice, cut once: fit table, gate (GO / measure first / STOP), feedback to each agent |
+| 4 | Ross | Roadmap + fit check | Tick-boxes: which V1 to build, cost cap, which quotes to request, owner |
 
 Live in chat: step 2 runs as three sub-agents in parallel, so V2 and V3 aren't anchored on V1 (same reason the C-suite seats run blind). Skip a version if it adds nothing now – "V3: not material until V1 sells" is a valid answer.
 
@@ -56,6 +57,11 @@ Then: **Day-by-day plan for the week** (V1 and V2: order day, delivery day, buil
 - **V1 → V2:** the product does its job for real users (e.g. 3+ households use it for 2 weeks) and someone has asked to buy one.
 - **V2 → V3:** paid units sold at the target price (number `[Ross: confirm]`) and a supplier quote shows the V3 unit cost works.
 - No tooling, moulds or minimum-order commitments before the V2 → V3 gate is passed. Ross sets every cost cap.
+
+## Measure twice, cut once (Ross, 22 Nov 2026)
+- No basket, order or cut until the fit check says GO or GO after measuring. Re-run after any part swap.
+- Dimensions come from a measurement or the exact article's spec table – never a product title, photo or memory.
+- When a part doesn't fit, the fit check finds which interface was assumed and proposes the rule change for the agent that let it through.
 
 ## Money and quotes
 - Prices only with a source: a shop listing, a price page or a written quote. Otherwise `quote needed` or `[Ross: confirm]`.

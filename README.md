@@ -19,7 +19,7 @@ Start with `CHARTER.md`.
 ## Seats
 `ceo` · `cfo` · `cto` · `cso-science` (only when science matters) · `strategy` · `go-to-market` · `wedge` · `audit` (blind)
 
-Prototype Lab: `prototype/design-lead` · `prototype/v1-off-the-shelf` · `prototype/v2-custom` · `prototype/v3-volume`
+Prototype Lab: `prototype/fit-check` (measure twice, cut once) · `prototype/design-lead` · `prototype/v1-off-the-shelf` · `prototype/v2-custom` · `prototype/v3-volume`
 
 ## Use
 In a chat with this repo attached:

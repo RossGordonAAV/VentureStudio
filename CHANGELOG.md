@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.0 – 22 Nov 2026
+- Fit check agent ("measure twice, cut once"): independent sub-agent that verifies every interface against spec sheets or Ross's measurements before anything is bought or cut; gate GO / measure first / STOP; feedback to the other Lab agents. No Airtable. Trigger: can tube caps ordered in the wrong size.
+
 ## 0.3.0 – 21 Nov 2026
 - Prototype Lab subsection for physical products: industrial design lead plus V1 (off the shelf), V2 (custom: 3D printing, laser/CNC, casting, sewing) and V3 (volume: tooling, DFM, contract manufacturing) agents.
 - Simplest first: fewest parts, nicer material over finishing, simple base (Ross's feedback on the can tube Lab 1).
