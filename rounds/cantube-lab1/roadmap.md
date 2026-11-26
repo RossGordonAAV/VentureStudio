@@ -80,3 +80,17 @@ Rejected: Saninstal stainless rozet Ø80 mm (€17.99, Praxis) – sized for 80 
 - GAMMA gatenzaagset hout 6-delig 60/68/74/80/90/100 mm, €30.99 – pick the size after measuring the cap.
 - Board for the base: price not checked.
 Listed total excl. board: €81.11.
+
+## Update 26 Nov – V2 built (Ross)
+- 3 × 1,170 mm RIO tubes cut; one wrapped in matt black foil with Tesa aluminium band at the top – "looks relatively nice".
+- Red speciedeksels fit, but look cheap from outside. Wanted: internal plug, not visible.
+- Cans now slide down softly on an air cushion, no rattle – bore ~69 mm (3 mm wall) vs 66 mm can.
+- Base still to make.
+
+## Internal plug – candidates (fit check inline)
+| Part | Spec (source) | vs pipe (75 OD, 3.0–3.2 mm wall → 68.6–69 mm bore) | Verdict |
+|---|---|---|---|
+| Essentra round tube insert 20574284, black LDPE | D 75 mm, wall 1.0–3.5 mm, head 6 mm, pack of 25, ~£0.35 each (GB site) | wall in range | Fits – verified on spec; measure bore first |
+| Vital Parts RO114, black LDPE ribbed | 75 mm OD, wall 2.0–4.0 mm, fits 67–71 mm ID (UK) | in range | Fits – verified on spec |
+| Ganter GN 991 D76 | for 76 mm tube | wrong size | Won't fit |
+With an internal plug the tube end stays 75 mm OD, so the base can use the **80 mm** saw already bought (2.5 mm play per side) instead of 90 mm.
