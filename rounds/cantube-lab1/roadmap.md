@@ -94,3 +94,11 @@ Listed total excl. board: €81.11.
 | Vital Parts RO114, black LDPE ribbed | 75 mm OD, wall 2.0–4.0 mm, fits 67–71 mm ID (UK) | in range | Fits – verified on spec |
 | Ganter GN 991 D76 | for 76 mm tube | wrong size | Won't fit |
 With an internal plug the tube end stays 75 mm OD, so the base can use the **80 mm** saw already bought (2.5 mm play per side) instead of 90 mm.
+
+## 27 Nov – Ross: ribbed inserts too heavy; wants a lighter plug, easy to remove
+| Part | Spec (source) | vs bore 68.6–69 mm | Verdict |
+|---|---|---|---|
+| Essentra centre pull tab plug 110042, red LDPE | tapered, fits holes 67.4–70.2 mm, centre pull tab, flush (no part above overall height) | inside range | Fits – verified on spec; **first choice** |
+| Essentra tapered cap & plug, standard, LDPE blue (10309216 / "78") | plugs IDs 67.2–71.2 mm, easy fit and removal; from 100 pcs, £1.17 each | inside range | Fits – verified on spec; backup |
+| Essentra tapered cap & plug, wide flange, yellow (10134214) | 65.5–70.0 mm, 6 ribs | inside range | Flange shows – not preferred |
+Next: request Essentra samples of 110042 (and 10309216) before buying packs; measure bore with calliper.
